@@ -12,3 +12,8 @@ or
     ym < jsonfile.json
 
 That's it.
+
+## Credits
+
+I wrote like six lines of code, so good for me I guess, but this is basically just a wrapper
+around [ghodss/yaml](https://github.com/ghodss/yaml).
